@@ -1,0 +1,21 @@
+# Build artifacts
+[Bb]in/
+[Oo]bj/
+*.pdb
+*.suo
+*.user
+
+# NuGet packages
+packages/
+
+# Visual Studio / IDE
+.vs/
+*.vsp
+*.vspx
+
+# Configuration/Secrets
+appsettings.Development.json
+*.json.user
+
+# Mac/Linux System Files
+.DS_Store
