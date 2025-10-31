@@ -21,4 +21,5 @@ appsettings.Development.json
 .DS_Store
 
 # Backups
-[.Backup]
+OnlineShop.csproj.Backup (1).tmp
+OnlineShop.csproj.Backup.tmp
