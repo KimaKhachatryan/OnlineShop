@@ -19,3 +19,6 @@ appsettings.Development.json
 
 # Mac/Linux System Files
 .DS_Store
+
+# Backups
+[.Backup]
