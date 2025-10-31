@@ -19,3 +19,7 @@ appsettings.Development.json
 
 # Mac/Linux System Files
 .DS_Store
+
+# Backups
+OnlineShop.csproj.Backup (1).tmp
+OnlineShop.csproj.Backup.tmp

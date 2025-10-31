@@ -14,15 +14,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.8" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="8.0.8" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.8" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.22.1" />
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.6" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\onlineShop.Application\onlineShop.Application.csproj" />
+    <ProjectReference Include="..\onlineShop.Domain\onlineShop.Domain.csproj" />
     <ProjectReference Include="..\onlineShop.Infrastructure\onlineShop.Infrastructure.csproj" />
   </ItemGroup>
 
